@@ -1,0 +1,4 @@
+id	Comment	InitCoins	InitDiamonds	
+Id	描述	初始金币数	初始钻石数	
+int32	string	int32	int32	
+1	游戏初始值	1000	1	

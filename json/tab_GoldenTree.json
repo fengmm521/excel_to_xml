@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "InGameName":"名字索引", "TrainCost":"花费", "UpgradeCost":"升级", "UpgradeTime":"升级时间（分钟）", "UpdateDiamond":"直接升级需求钻石", "CoinsPerHour":"每小时生成金币数" },
+		{ "id":"int", "Comment":"string", "Level":"int", "InGameName":"int", "TrainCost":"int", "UpgradeCost":"int", "UpgradeTime":"int", "UpdateDiamond":"int", "CoinsPerHour":"int" },
+		{ "id":1, "Comment":"Golden Tree-摇钱树", "Level":1, "InGameName":1027, "TrainCost":-1, "UpgradeCost":5000, "UpgradeTime":10, "UpdateDiamond":5, "CoinsPerHour":1000 },
+		{ "id":2, "Comment":"Golden Tree-摇钱树", "Level":2, "InGameName":1027, "TrainCost":-1, "UpgradeCost":6000, "UpgradeTime":12, "UpdateDiamond":6, "CoinsPerHour":1200 },
+		{ "id":3, "Comment":"Golden Tree-摇钱树", "Level":3, "InGameName":1027, "TrainCost":-1, "UpgradeCost":7000, "UpgradeTime":14, "UpdateDiamond":7, "CoinsPerHour":1400 },
+		{ "id":4, "Comment":"Golden Tree-摇钱树", "Level":4, "InGameName":1027, "TrainCost":-1, "UpgradeCost":8000, "UpgradeTime":16, "UpdateDiamond":8, "CoinsPerHour":1600 },
+		{ "id":5, "Comment":"Golden Tree-摇钱树", "Level":5, "InGameName":1027, "TrainCost":-1, "UpgradeCost":9000, "UpgradeTime":18, "UpdateDiamond":9, "CoinsPerHour":1800 },
+		{ "id":6, "Comment":"Golden Tree-摇钱树", "Level":6, "InGameName":1027, "TrainCost":-1, "UpgradeCost":10000, "UpgradeTime":20, "UpdateDiamond":10, "CoinsPerHour":2000 },
+		{ "id":7, "Comment":"Golden Tree-摇钱树", "Level":7, "InGameName":1027, "TrainCost":-1, "UpgradeCost":11000, "UpgradeTime":22, "UpdateDiamond":11, "CoinsPerHour":2200 },
+		{ "id":8, "Comment":"Golden Tree-摇钱树", "Level":8, "InGameName":1027, "TrainCost":-1, "UpgradeCost":12000, "UpgradeTime":24, "UpdateDiamond":12, "CoinsPerHour":2400 },
+		{ "id":9, "Comment":"Golden Tree-摇钱树", "Level":9, "InGameName":1027, "TrainCost":-1, "UpgradeCost":13000, "UpgradeTime":26, "UpdateDiamond":13, "CoinsPerHour":2600 },
+		{ "id":10, "Comment":"Golden Tree-摇钱树", "Level":10, "InGameName":1027, "TrainCost":-1, "UpgradeCost":-1, "UpgradeTime":-1, "UpdateDiamond":-1, "CoinsPerHour":2800 }
+	]
+}

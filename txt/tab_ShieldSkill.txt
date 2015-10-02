@@ -1,0 +1,13 @@
+id	Comment	Level	InGameName	TrainCost	UpgradeCost	UpgradeTime	UpdateDiamond	DefenseAdd	
+Id	描述	等级	名字索引	花费	升级	升级时间（分钟）	直接升级需求钻石	增加防御值	
+int	string	int	int	int	int	int	int	int	
+1	Shield-防护罩技能	1	1026	30	700	7	7	100	
+2	Shield-防护罩技能	2	1026	60	1400	14	14	200	
+3	Shield-防护罩技能	3	1026	90	2100	21	21	300	
+4	Shield-防护罩技能	4	1026	120	2800	28	28	400	
+5	Shield-防护罩技能	5	1026	150	3500	35	35	500	
+6	Shield-防护罩技能	6	1026	180	4200	42	42	600	
+7	Shield-防护罩技能	7	1026	210	4900	49	49	700	
+8	Shield-防护罩技能	8	1026	240	5600	56	56	800	
+9	Shield-防护罩技能	9	1026	270	6300	63	63	900	
+10	Shield-防护罩技能	10	1026	-1	-1	-1	-1	1000	

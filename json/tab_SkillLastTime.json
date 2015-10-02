@@ -1,0 +1,7 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "LastTime":"持续秒数" },
+		{ "id":"int", "Comment":"string", "LastTime":"int" },
+		{ "id":1, "Comment":"防护罩技能持续时间", "LastTime":3 }
+	]
+}

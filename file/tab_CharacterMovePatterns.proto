@@ -1,0 +1,18 @@
+message tab_CharacterMovePatternsTable 
+{
+	optional string tname = 1;
+	repeated tab_CharacterMovePatterns tlist = 2;
+}
+
+message tab_CharacterMovePatterns
+{
+	optional int32 id = 1;
+	optional string Comment = 2;
+	optional int32 Type = 3;
+	optional int32 Stable = 4;
+	optional int32 Left = 5;
+	optional int32 Right = 6;
+	optional int32 Up = 7;
+	optional int32 Down = 8;
+	optional int32 TowardPlayer = 9;
+}

@@ -1,0 +1,11 @@
+id	Comment	Type	Stable	Left	Right	Up	Down	TowardPlayer	
+Id	描述	角色类型	固定	左	右	上	下	向攻击者移动	
+int	string	int	int	int	int	int	int	int	
+1	Solider移动方向	1	-1	1	1	1	1	-1	
+2	Tank移动方向	2	-1	1	1	1	1	-1	
+3	Missile移动方向	3	1	-1	-1	-1	-1	-1	
+4	voltage tower移动方向	4	1	-1	-1	-1	-1	-1	
+5	fog chamber移动方向	5	1	-1	-1	-1	-1	-1	
+6	windmill移动方向	6	1	-1	-1	-1	-1	-1	
+7	Kamikaze移动方向	7	-1	-1	-1	-1	-1	1	
+8	Archibald移动方向	8	1	-1	-1	-1	-1	-1	

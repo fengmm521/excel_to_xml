@@ -1,0 +1,19 @@
+message tab_UnitContainerTable 
+{
+	optional string tname = 1;
+	repeated tab_UnitContainer tlist = 2;
+}
+
+message tab_UnitContainer
+{
+	optional int32 id = 1;
+	optional string Comment = 2;
+	optional int32 Level = 3;
+	optional int32 Type = 4;
+	optional int32 InGameName = 5;
+	optional int32 TrainCost = 6;
+	optional int32 UpgradeCost = 7;
+	optional int32 UpgradeTime = 8;
+	optional int32 UpdateDiamond = 9;
+	optional int32 UnitCount = 10;
+}

@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "CanBuyBarrack":"能购买兵营数", "CanBuyAirport":"能购买机场数" },
+		{ "id":"int", "Comment":"string", "Level":"int", "CanBuyBarrack":"int", "CanBuyAirport":"int" },
+		{ "id":1, "Comment":"每个等级能购买的飞机场和兵营数", "Level":1, "CanBuyBarrack":1, "CanBuyAirport":1 },
+		{ "id":2, "Comment":"每个等级能购买的飞机场和兵营数", "Level":2, "CanBuyBarrack":2, "CanBuyAirport":2 },
+		{ "id":3, "Comment":"每个等级能购买的飞机场和兵营数", "Level":3, "CanBuyBarrack":3, "CanBuyAirport":3 },
+		{ "id":4, "Comment":"每个等级能购买的飞机场和兵营数", "Level":4, "CanBuyBarrack":4, "CanBuyAirport":4 },
+		{ "id":5, "Comment":"每个等级能购买的飞机场和兵营数", "Level":5, "CanBuyBarrack":5, "CanBuyAirport":5 },
+		{ "id":6, "Comment":"每个等级能购买的飞机场和兵营数", "Level":6, "CanBuyBarrack":6, "CanBuyAirport":6 },
+		{ "id":7, "Comment":"每个等级能购买的飞机场和兵营数", "Level":7, "CanBuyBarrack":7, "CanBuyAirport":7 },
+		{ "id":8, "Comment":"每个等级能购买的飞机场和兵营数", "Level":8, "CanBuyBarrack":8, "CanBuyAirport":8 },
+		{ "id":9, "Comment":"每个等级能购买的飞机场和兵营数", "Level":9, "CanBuyBarrack":9, "CanBuyAirport":9 },
+		{ "id":10, "Comment":"每个等级能购买的飞机场和兵营数", "Level":10, "CanBuyBarrack":10, "CanBuyAirport":10 }
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "InGameName":"名字索引", "Cost":"花费钻石数", "CoinsMulti":"获得金币倍数" },
+		{ "id":"int", "Comment":"string", "InGameName":"int", "Cost":"int", "CoinsMulti":"int" },
+		{ "id":1, "Comment":"Oneday一天", "InGameName":1028, "Cost":100, "CoinsMulti":3 },
+		{ "id":2, "Comment":"Twodays两天", "InGameName":1029, "Cost":150, "CoinsMulti":4 },
+		{ "id":3, "Comment":"OneWeek一星期", "InGameName":1030, "Cost":250, "CoinsMulti":6 }
+	]
+}

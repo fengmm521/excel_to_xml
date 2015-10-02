@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "InGameName":"名字索引", "TrainCost":"花费", "UpgradeCost":"升级", "UpgradeTime":"升级时间（分钟）", "UpdateDiamond":"直接升级需求钻石", "DefenseAdd":"增加防御值" },
+		{ "id":"int", "Comment":"string", "Level":"int", "InGameName":"int", "TrainCost":"int", "UpgradeCost":"int", "UpgradeTime":"int", "UpdateDiamond":"int", "DefenseAdd":"int" },
+		{ "id":1, "Comment":"Shield-防护罩技能", "Level":1, "InGameName":1026, "TrainCost":30, "UpgradeCost":700, "UpgradeTime":7, "UpdateDiamond":7, "DefenseAdd":100 },
+		{ "id":2, "Comment":"Shield-防护罩技能", "Level":2, "InGameName":1026, "TrainCost":60, "UpgradeCost":1400, "UpgradeTime":14, "UpdateDiamond":14, "DefenseAdd":200 },
+		{ "id":3, "Comment":"Shield-防护罩技能", "Level":3, "InGameName":1026, "TrainCost":90, "UpgradeCost":2100, "UpgradeTime":21, "UpdateDiamond":21, "DefenseAdd":300 },
+		{ "id":4, "Comment":"Shield-防护罩技能", "Level":4, "InGameName":1026, "TrainCost":120, "UpgradeCost":2800, "UpgradeTime":28, "UpdateDiamond":28, "DefenseAdd":400 },
+		{ "id":5, "Comment":"Shield-防护罩技能", "Level":5, "InGameName":1026, "TrainCost":150, "UpgradeCost":3500, "UpgradeTime":35, "UpdateDiamond":35, "DefenseAdd":500 },
+		{ "id":6, "Comment":"Shield-防护罩技能", "Level":6, "InGameName":1026, "TrainCost":180, "UpgradeCost":4200, "UpgradeTime":42, "UpdateDiamond":42, "DefenseAdd":600 },
+		{ "id":7, "Comment":"Shield-防护罩技能", "Level":7, "InGameName":1026, "TrainCost":210, "UpgradeCost":4900, "UpgradeTime":49, "UpdateDiamond":49, "DefenseAdd":700 },
+		{ "id":8, "Comment":"Shield-防护罩技能", "Level":8, "InGameName":1026, "TrainCost":240, "UpgradeCost":5600, "UpgradeTime":56, "UpdateDiamond":56, "DefenseAdd":800 },
+		{ "id":9, "Comment":"Shield-防护罩技能", "Level":9, "InGameName":1026, "TrainCost":270, "UpgradeCost":6300, "UpgradeTime":63, "UpdateDiamond":63, "DefenseAdd":900 },
+		{ "id":10, "Comment":"Shield-防护罩技能", "Level":10, "InGameName":1026, "TrainCost":-1, "UpgradeCost":-1, "UpgradeTime":-1, "UpdateDiamond":-1, "DefenseAdd":1000 }
+	]
+}

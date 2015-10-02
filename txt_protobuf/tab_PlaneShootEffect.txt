@@ -1,0 +1,16 @@
+id	Comment	Type	EffectNo	
+Id	描述	角色类型	动画编号	
+int32	string	int32	int32	
+1	S-068射击动画	9	1	
+2	M-019射击动画	10	2	
+3	B-500射击动画	11	3	
+4	Dwarf射击动画	12	4	
+5	Albatross射击动画	13	5	
+6	Hawk射击动画	14	6	
+7	Phoenix射击动画	15	7	
+8	Thunder Fighter射击动画	16	8	
+9	Warlord射击动画	17	9	
+10	Puma射击动画	18	10	
+11	Tempura射击动画	19	11	
+12	Halo射击动画	20	12	
+13	Vasline射击动画	21	13	

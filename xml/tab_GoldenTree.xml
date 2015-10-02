@@ -1,0 +1,112 @@
+<config>
+	<id>
+		<id>1</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>1</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>5000</UpgradeCost>
+		<UpgradeTime>10</UpgradeTime>
+		<UpdateDiamond>5</UpdateDiamond>
+		<CoinsPerHour>1000</CoinsPerHour>
+	</id>
+	<id>
+		<id>2</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>2</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>6000</UpgradeCost>
+		<UpgradeTime>12</UpgradeTime>
+		<UpdateDiamond>6</UpdateDiamond>
+		<CoinsPerHour>1200</CoinsPerHour>
+	</id>
+	<id>
+		<id>3</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>3</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>7000</UpgradeCost>
+		<UpgradeTime>14</UpgradeTime>
+		<UpdateDiamond>7</UpdateDiamond>
+		<CoinsPerHour>1400</CoinsPerHour>
+	</id>
+	<id>
+		<id>4</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>4</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>8000</UpgradeCost>
+		<UpgradeTime>16</UpgradeTime>
+		<UpdateDiamond>8</UpdateDiamond>
+		<CoinsPerHour>1600</CoinsPerHour>
+	</id>
+	<id>
+		<id>5</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>5</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>9000</UpgradeCost>
+		<UpgradeTime>18</UpgradeTime>
+		<UpdateDiamond>9</UpdateDiamond>
+		<CoinsPerHour>1800</CoinsPerHour>
+	</id>
+	<id>
+		<id>6</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>6</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>10000</UpgradeCost>
+		<UpgradeTime>20</UpgradeTime>
+		<UpdateDiamond>10</UpdateDiamond>
+		<CoinsPerHour>2000</CoinsPerHour>
+	</id>
+	<id>
+		<id>7</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>7</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>11000</UpgradeCost>
+		<UpgradeTime>22</UpgradeTime>
+		<UpdateDiamond>11</UpdateDiamond>
+		<CoinsPerHour>2200</CoinsPerHour>
+	</id>
+	<id>
+		<id>8</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>8</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>12000</UpgradeCost>
+		<UpgradeTime>24</UpgradeTime>
+		<UpdateDiamond>12</UpdateDiamond>
+		<CoinsPerHour>2400</CoinsPerHour>
+	</id>
+	<id>
+		<id>9</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>9</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>13000</UpgradeCost>
+		<UpgradeTime>26</UpgradeTime>
+		<UpdateDiamond>13</UpdateDiamond>
+		<CoinsPerHour>2600</CoinsPerHour>
+	</id>
+	<id>
+		<id>10</id>
+		<Comment>Golden Tree-摇钱树</Comment>
+		<Level>10</Level>
+		<InGameName>1027</InGameName>
+		<TrainCost>-1</TrainCost>
+		<UpgradeCost>-1</UpgradeCost>
+		<UpgradeTime>-1</UpgradeTime>
+		<UpdateDiamond>-1</UpdateDiamond>
+		<CoinsPerHour>2800</CoinsPerHour>
+	</id>
+</config>

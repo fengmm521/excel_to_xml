@@ -1,0 +1,19 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Type":"角色类型", "EffectNo":"动画编号" },
+		{ "id":"int", "Comment":"string", "Type":"int", "EffectNo":"int" },
+		{ "id":1, "Comment":"S-068射击动画", "Type":9, "EffectNo":1 },
+		{ "id":2, "Comment":"M-019射击动画", "Type":10, "EffectNo":2 },
+		{ "id":3, "Comment":"B-500射击动画", "Type":11, "EffectNo":3 },
+		{ "id":4, "Comment":"Dwarf射击动画", "Type":12, "EffectNo":4 },
+		{ "id":5, "Comment":"Albatross射击动画", "Type":13, "EffectNo":5 },
+		{ "id":6, "Comment":"Hawk射击动画", "Type":14, "EffectNo":6 },
+		{ "id":7, "Comment":"Phoenix射击动画", "Type":15, "EffectNo":7 },
+		{ "id":8, "Comment":"Thunder Fighter射击动画", "Type":16, "EffectNo":8 },
+		{ "id":9, "Comment":"Warlord射击动画", "Type":17, "EffectNo":9 },
+		{ "id":10, "Comment":"Puma射击动画", "Type":18, "EffectNo":10 },
+		{ "id":11, "Comment":"Tempura射击动画", "Type":19, "EffectNo":11 },
+		{ "id":12, "Comment":"Halo射击动画", "Type":20, "EffectNo":12 },
+		{ "id":13, "Comment":"Vasline射击动画", "Type":21, "EffectNo":13 }
+	]
+}

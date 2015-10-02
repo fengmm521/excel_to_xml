@@ -1,0 +1,14 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Type":"角色类型", "LightBullet":"轻型子弹", "HeavyBullet":"重型子弹", "Missile":"导弹", "Nightning":"闪电", "Fog":"喷雾", "Wind":"吹风", "Archibald":"高射炮弹" },
+		{ "id":"int", "Comment":"string", "Type":"int", "LightBullet":"int", "HeavyBullet":"int", "Missile":"int", "Nightning":"int", "Fog":"int", "Wind":"int", "Archibald":"int" },
+		{ "id":1, "Comment":"Solider射击样式", "Type":1, "LightBullet":1, "HeavyBullet":-1, "Missile":-1, "Nightning":-1, "Fog":-1, "Wind":-1, "Archibald":-1 },
+		{ "id":2, "Comment":"Tank射击样式", "Type":2, "LightBullet":-1, "HeavyBullet":1, "Missile":-1, "Nightning":-1, "Fog":-1, "Wind":-1, "Archibald":-1 },
+		{ "id":3, "Comment":"Missile射击样式", "Type":3, "LightBullet":-1, "HeavyBullet":-1, "Missile":1, "Nightning":-1, "Fog":-1, "Wind":-1, "Archibald":-1 },
+		{ "id":4, "Comment":"voltage tower射击样式", "Type":4, "LightBullet":-1, "HeavyBullet":-1, "Missile":-1, "Nightning":1, "Fog":-1, "Wind":-1, "Archibald":-1 },
+		{ "id":5, "Comment":"fog chamber射击样式", "Type":5, "LightBullet":-1, "HeavyBullet":-1, "Missile":-1, "Nightning":-1, "Fog":1, "Wind":-1, "Archibald":-1 },
+		{ "id":6, "Comment":"windmill射击样式", "Type":6, "LightBullet":-1, "HeavyBullet":-1, "Missile":-1, "Nightning":-1, "Fog":-1, "Wind":1, "Archibald":-1 },
+		{ "id":7, "Comment":"Kamikaze射击样式", "Type":7, "LightBullet":-1, "HeavyBullet":-1, "Missile":-1, "Nightning":-1, "Fog":-1, "Wind":-1, "Archibald":-1 },
+		{ "id":8, "Comment":"Archibald射击样式", "Type":8, "LightBullet":-1, "HeavyBullet":-1, "Missile":-1, "Nightning":-1, "Fog":-1, "Wind":-1, "Archibald":1 }
+	]
+}

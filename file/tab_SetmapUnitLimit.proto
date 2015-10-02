@@ -1,0 +1,14 @@
+message tab_SetmapUnitLimitTable 
+{
+	optional string tname = 1;
+	repeated tab_SetmapUnitLimit tlist = 2;
+}
+
+message tab_SetmapUnitLimit
+{
+	optional int32 id = 1;
+	optional string Comment = 2;
+	optional int32 Level = 3;
+	optional int32 InGameName = 4;
+	optional int32 UnitLimits = 5;
+}

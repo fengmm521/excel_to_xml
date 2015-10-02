@@ -1,0 +1,11 @@
+id	Comment	UnitCount	
+Id	描述	所占单元数	
+int	string	int	
+1	Soldier所占单元	1	
+2	Tank所占单元	5	
+3	Missile所占单元	5	
+4	Voltage tower所占单元	5	
+5	Fog chamber所占单元	5	
+6	Windmill所占单元	5	
+7	Kamikaze所占单元	2	
+8	Archibald所占单元	5	

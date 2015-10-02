@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "Solider":"能否购买", " Tank":"能否购买", "Archibald":"能否购买", "Kamikaze":"能否购买", "Missile":"能否购买", "VoltageTower":"能否购买", "windmill":"能否购买", "fogChamber":"能否购买" },
+		{ "id":"int", "Comment":"string", "Level":"int", "Solider":"int", " Tank":"int", "Archibald":"int", "Kamikaze":"int", "Missile":"int", "VoltageTower":"int", "windmill":"int", "fogChamber":"int" },
+		{ "id":1, "Comment":"每个等级能购买的角色", "Level":1, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":-1, "Missile":-1, "VoltageTower":-1, "windmill":-1, "fogChamber":-1 },
+		{ "id":2, "Comment":"每个等级能购买的角色", "Level":2, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":-1, "VoltageTower":-1, "windmill":-1, "fogChamber":-1 },
+		{ "id":3, "Comment":"每个等级能购买的角色", "Level":3, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":-1, "windmill":-1, "fogChamber":-1 },
+		{ "id":4, "Comment":"每个等级能购买的角色", "Level":4, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":1, "windmill":-1, "fogChamber":-1 },
+		{ "id":5, "Comment":"每个等级能购买的角色", "Level":5, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":1, "windmill":1, "fogChamber":-1 },
+		{ "id":6, "Comment":"每个等级能购买的角色", "Level":6, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":1, "windmill":1, "fogChamber":1 },
+		{ "id":7, "Comment":"每个等级能购买的角色", "Level":7, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":1, "windmill":1, "fogChamber":1 },
+		{ "id":8, "Comment":"每个等级能购买的角色", "Level":8, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":1, "windmill":1, "fogChamber":1 },
+		{ "id":9, "Comment":"每个等级能购买的角色", "Level":9, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":1, "windmill":1, "fogChamber":1 },
+		{ "id":10, "Comment":"每个等级能购买的角色", "Level":10, "Solider":1, " Tank":1, "Archibald":1, "Kamikaze":1, "Missile":1, "VoltageTower":1, "windmill":1, "fogChamber":1 }
+	]
+}

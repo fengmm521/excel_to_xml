@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "Coins":"掉落金币概率", "CoinLowBound":"掉落金币数量下限", "CoinUpperBound":"掉落金币数量上限", "LifePoints":"掉落生命值概率", "LifeLowBound":"掉落生命值数量下限", "LifeUpperBound":"掉落生命值数量上限", "Bomb":"掉落炸弹概率", "Shield":"掉落防护罩概率", "Life":"主机数量加1概率" },
+		{ "id":"int", "Comment":"string", "Level":"int", "Coins":"int", "CoinLowBound":"int", "CoinUpperBound":"int", "LifePoints":"int", "LifeLowBound":"int", "LifeUpperBound":"int", "Bomb":"int", "Shield":"int", "Life":"int" },
+		{ "id":1, "Comment":"掉落物品概率", "Level":1, "Coins":50, "CoinLowBound":10, "CoinUpperBound":50, "LifePoints":20, "LifeLowBound":10, "LifeUpperBound":50, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":2, "Comment":"掉落物品概率", "Level":2, "Coins":50, "CoinLowBound":20, "CoinUpperBound":100, "LifePoints":20, "LifeLowBound":20, "LifeUpperBound":100, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":3, "Comment":"掉落物品概率", "Level":3, "Coins":50, "CoinLowBound":30, "CoinUpperBound":150, "LifePoints":20, "LifeLowBound":30, "LifeUpperBound":150, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":4, "Comment":"掉落物品概率", "Level":4, "Coins":50, "CoinLowBound":40, "CoinUpperBound":200, "LifePoints":20, "LifeLowBound":40, "LifeUpperBound":200, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":5, "Comment":"掉落物品概率", "Level":5, "Coins":50, "CoinLowBound":50, "CoinUpperBound":250, "LifePoints":20, "LifeLowBound":50, "LifeUpperBound":250, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":6, "Comment":"掉落物品概率", "Level":6, "Coins":50, "CoinLowBound":60, "CoinUpperBound":300, "LifePoints":20, "LifeLowBound":60, "LifeUpperBound":300, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":7, "Comment":"掉落物品概率", "Level":7, "Coins":50, "CoinLowBound":70, "CoinUpperBound":350, "LifePoints":20, "LifeLowBound":70, "LifeUpperBound":350, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":8, "Comment":"掉落物品概率", "Level":8, "Coins":50, "CoinLowBound":80, "CoinUpperBound":400, "LifePoints":20, "LifeLowBound":80, "LifeUpperBound":400, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":9, "Comment":"掉落物品概率", "Level":9, "Coins":50, "CoinLowBound":90, "CoinUpperBound":450, "LifePoints":20, "LifeLowBound":90, "LifeUpperBound":450, "Bomb":10, "Shield":15, "Life":5 },
+		{ "id":10, "Comment":"掉落物品概率", "Level":10, "Coins":50, "CoinLowBound":100, "CoinUpperBound":500, "LifePoints":20, "LifeLowBound":100, "LifeUpperBound":500, "Bomb":10, "Shield":15, "Life":5 }
+	]
+}

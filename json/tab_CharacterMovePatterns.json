@@ -1,0 +1,14 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Type":"角色类型", "Stable":"固定", "Left":"左", "Right":"右", "Up":"上", "Down":"下", "TowardPlayer":"向攻击者移动" },
+		{ "id":"int", "Comment":"string", "Type":"int", "Stable":"int", "Left":"int", "Right":"int", "Up":"int", "Down":"int", "TowardPlayer":"int" },
+		{ "id":1, "Comment":"Solider移动方向", "Type":1, "Stable":-1, "Left":1, "Right":1, "Up":1, "Down":1, "TowardPlayer":-1 },
+		{ "id":2, "Comment":"Tank移动方向", "Type":2, "Stable":-1, "Left":1, "Right":1, "Up":1, "Down":1, "TowardPlayer":-1 },
+		{ "id":3, "Comment":"Missile移动方向", "Type":3, "Stable":1, "Left":-1, "Right":-1, "Up":-1, "Down":-1, "TowardPlayer":-1 },
+		{ "id":4, "Comment":"voltage tower移动方向", "Type":4, "Stable":1, "Left":-1, "Right":-1, "Up":-1, "Down":-1, "TowardPlayer":-1 },
+		{ "id":5, "Comment":"fog chamber移动方向", "Type":5, "Stable":1, "Left":-1, "Right":-1, "Up":-1, "Down":-1, "TowardPlayer":-1 },
+		{ "id":6, "Comment":"windmill移动方向", "Type":6, "Stable":1, "Left":-1, "Right":-1, "Up":-1, "Down":-1, "TowardPlayer":-1 },
+		{ "id":7, "Comment":"Kamikaze移动方向", "Type":7, "Stable":-1, "Left":-1, "Right":-1, "Up":-1, "Down":-1, "TowardPlayer":1 },
+		{ "id":8, "Comment":"Archibald移动方向", "Type":8, "Stable":1, "Left":-1, "Right":-1, "Up":-1, "Down":-1, "TowardPlayer":-1 }
+	]
+}

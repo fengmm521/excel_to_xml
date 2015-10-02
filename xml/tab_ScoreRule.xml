@@ -1,0 +1,12 @@
+<config>
+	<id>
+		<id>1</id>
+		<Comment>胜负加减分规则</Comment>
+		<ScoreAddPerPoint>1</ScoreAddPerPoint>
+		<ScoreAddWin>100</ScoreAddWin>
+		<CoinsAddWin>10</CoinsAddWin>
+		<ScoreSubPerPoint>1</ScoreSubPerPoint>
+		<ScoreSubLose>100</ScoreSubLose>
+		<CoinsSubLose>10</CoinsSubLose>
+	</id>
+</config>

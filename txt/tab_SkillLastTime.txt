@@ -1,0 +1,4 @@
+id	Comment	LastTime	
+Id	描述	持续秒数	
+int	string	int	
+1	防护罩技能持续时间	3	

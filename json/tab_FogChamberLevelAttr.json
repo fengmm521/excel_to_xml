@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "FogHeight":"雾气的高度", "showTime":"显示的秒数" },
+		{ "id":"int", "Comment":"string", "Level":"int", "FogHeight":"int", "showTime":"int" },
+		{ "id":1, "Comment":"造雾机每个等级的攻击属性", "Level":1, "FogHeight":3, "showTime":2 },
+		{ "id":2, "Comment":"造雾机每个等级的攻击属性", "Level":2, "FogHeight":4, "showTime":2 },
+		{ "id":3, "Comment":"造雾机每个等级的攻击属性", "Level":3, "FogHeight":5, "showTime":3 },
+		{ "id":4, "Comment":"造雾机每个等级的攻击属性", "Level":4, "FogHeight":6, "showTime":4 },
+		{ "id":5, "Comment":"造雾机每个等级的攻击属性", "Level":5, "FogHeight":6, "showTime":4 },
+		{ "id":6, "Comment":"造雾机每个等级的攻击属性", "Level":6, "FogHeight":6, "showTime":4 },
+		{ "id":7, "Comment":"造雾机每个等级的攻击属性", "Level":7, "FogHeight":6, "showTime":4 },
+		{ "id":8, "Comment":"造雾机每个等级的攻击属性", "Level":8, "FogHeight":6, "showTime":4 },
+		{ "id":9, "Comment":"造雾机每个等级的攻击属性", "Level":9, "FogHeight":6, "showTime":4 },
+		{ "id":10, "Comment":"造雾机每个等级的攻击属性", "Level":10, "FogHeight":6, "showTime":4 }
+	]
+}

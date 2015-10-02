@@ -1,0 +1,20 @@
+message tab_LevelLockedCharactersTable 
+{
+	optional string tname = 1;
+	repeated tab_LevelLockedCharacters tlist = 2;
+}
+
+message tab_LevelLockedCharacters
+{
+	optional int32 id = 1;
+	optional string Comment = 2;
+	optional int32 Level = 3;
+	optional int32 Solider = 4;
+	optional int32  Tank = 5;
+	optional int32 Archibald = 6;
+	optional int32 Kamikaze = 7;
+	optional int32 Missile = 8;
+	optional int32 VoltageTower = 9;
+	optional int32 windmill = 10;
+	optional int32 fogChamber = 11;
+}

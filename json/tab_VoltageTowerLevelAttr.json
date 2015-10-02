@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "ShootDist":"射击距离" },
+		{ "id":"int", "Comment":"string", "Level":"int", "ShootDist":"int" },
+		{ "id":1, "Comment":"高压电塔每个等级的攻击属性", "Level":1, "ShootDist":1 },
+		{ "id":2, "Comment":"高压电塔每个等级的攻击属性", "Level":2, "ShootDist":2 },
+		{ "id":3, "Comment":"高压电塔每个等级的攻击属性", "Level":3, "ShootDist":3 },
+		{ "id":4, "Comment":"高压电塔每个等级的攻击属性", "Level":4, "ShootDist":3 },
+		{ "id":5, "Comment":"高压电塔每个等级的攻击属性", "Level":5, "ShootDist":3 },
+		{ "id":6, "Comment":"高压电塔每个等级的攻击属性", "Level":6, "ShootDist":3 },
+		{ "id":7, "Comment":"高压电塔每个等级的攻击属性", "Level":7, "ShootDist":3 },
+		{ "id":8, "Comment":"高压电塔每个等级的攻击属性", "Level":8, "ShootDist":3 },
+		{ "id":9, "Comment":"高压电塔每个等级的攻击属性", "Level":9, "ShootDist":3 },
+		{ "id":10, "Comment":"高压电塔每个等级的攻击属性", "Level":10, "ShootDist":3 }
+	]
+}

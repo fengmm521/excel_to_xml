@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "InGameName":"名字索引", "UnitLimits":"单元上限" },
+		{ "id":"int", "Comment":"string", "Level":"int", "InGameName":"int", "UnitLimits":"int" },
+		{ "id":1, "Comment":"地图上防御单元限制", "Level":1, "InGameName":-1, "UnitLimits":20 },
+		{ "id":2, "Comment":"地图上防御单元限制", "Level":2, "InGameName":-1, "UnitLimits":25 },
+		{ "id":3, "Comment":"地图上防御单元限制", "Level":3, "InGameName":-1, "UnitLimits":30 },
+		{ "id":4, "Comment":"地图上防御单元限制", "Level":4, "InGameName":-1, "UnitLimits":35 },
+		{ "id":5, "Comment":"地图上防御单元限制", "Level":5, "InGameName":-1, "UnitLimits":40 },
+		{ "id":6, "Comment":"地图上防御单元限制", "Level":6, "InGameName":-1, "UnitLimits":45 },
+		{ "id":7, "Comment":"地图上防御单元限制", "Level":7, "InGameName":-1, "UnitLimits":50 },
+		{ "id":8, "Comment":"地图上防御单元限制", "Level":8, "InGameName":-1, "UnitLimits":55 },
+		{ "id":9, "Comment":"地图上防御单元限制", "Level":9, "InGameName":-1, "UnitLimits":60 },
+		{ "id":10, "Comment":"地图上防御单元限制", "Level":10, "InGameName":-1, "UnitLimits":65 }
+	]
+}

@@ -1,0 +1,13 @@
+id	Comment	Level	InGameName	TrainCost	UpgradeCost	UpgradeTime	UpdateDiamond	CoinsPerHour	
+Id	描述	等级	名字索引	花费	升级	升级时间（分钟）	直接升级需求钻石	每小时生成金币数	
+int32	string	int32	int32	int32	int32	int32	int32	int32	
+1	Golden Tree-摇钱树	1	1027	-1	5000	10	5	1000	
+2	Golden Tree-摇钱树	2	1027	-1	6000	12	6	1200	
+3	Golden Tree-摇钱树	3	1027	-1	7000	14	7	1400	
+4	Golden Tree-摇钱树	4	1027	-1	8000	16	8	1600	
+5	Golden Tree-摇钱树	5	1027	-1	9000	18	9	1800	
+6	Golden Tree-摇钱树	6	1027	-1	10000	20	10	2000	
+7	Golden Tree-摇钱树	7	1027	-1	11000	22	11	2200	
+8	Golden Tree-摇钱树	8	1027	-1	12000	24	12	2400	
+9	Golden Tree-摇钱树	9	1027	-1	13000	26	13	2600	
+10	Golden Tree-摇钱树	10	1027	-1	-1	-1	-1	2800	

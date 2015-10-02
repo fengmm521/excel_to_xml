@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "NeedCoins":"所需金币数" },
+		{ "id":"int", "Comment":"string", "Level":"int", "NeedCoins":"int" },
+		{ "id":1, "Comment":"每次搜索对手所需金币数", "Level":1, "NeedCoins":100 },
+		{ "id":2, "Comment":"每次搜索对手所需金币数", "Level":2, "NeedCoins":120 },
+		{ "id":3, "Comment":"每次搜索对手所需金币数", "Level":3, "NeedCoins":140 },
+		{ "id":4, "Comment":"每次搜索对手所需金币数", "Level":4, "NeedCoins":160 },
+		{ "id":5, "Comment":"每次搜索对手所需金币数", "Level":5, "NeedCoins":180 },
+		{ "id":6, "Comment":"每次搜索对手所需金币数", "Level":6, "NeedCoins":200 },
+		{ "id":7, "Comment":"每次搜索对手所需金币数", "Level":7, "NeedCoins":220 },
+		{ "id":8, "Comment":"每次搜索对手所需金币数", "Level":8, "NeedCoins":240 },
+		{ "id":9, "Comment":"每次搜索对手所需金币数", "Level":9, "NeedCoins":260 },
+		{ "id":10, "Comment":"每次搜索对手所需金币数", "Level":10, "NeedCoins":280 }
+	]
+}

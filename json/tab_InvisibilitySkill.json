@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "InGameName":"名字索引", "TrainCost":"花费", "UpgradeCost":"升级", "UpgradeTime":"升级时间（分钟）", "UpdateDiamond":"直接升级需求钻石", "HideSeconds":"隐身秒数" },
+		{ "id":"int", "Comment":"string", "Level":"int", "InGameName":"int", "TrainCost":"int", "UpgradeCost":"int", "UpgradeTime":"int", "UpdateDiamond":"int", "HideSeconds":"int" },
+		{ "id":1, "Comment":"Invisibility-隐身技能", "Level":1, "InGameName":1031, "TrainCost":25, "UpgradeCost":600, "UpgradeTime":6, "UpdateDiamond":6, "HideSeconds":2 },
+		{ "id":2, "Comment":"Invisibility-隐身技能", "Level":2, "InGameName":1031, "TrainCost":50, "UpgradeCost":1200, "UpgradeTime":12, "UpdateDiamond":12, "HideSeconds":3 },
+		{ "id":3, "Comment":"Invisibility-隐身技能", "Level":3, "InGameName":1031, "TrainCost":75, "UpgradeCost":1800, "UpgradeTime":18, "UpdateDiamond":18, "HideSeconds":4 },
+		{ "id":4, "Comment":"Invisibility-隐身技能", "Level":4, "InGameName":1031, "TrainCost":100, "UpgradeCost":2400, "UpgradeTime":24, "UpdateDiamond":24, "HideSeconds":5 },
+		{ "id":5, "Comment":"Invisibility-隐身技能", "Level":5, "InGameName":1031, "TrainCost":125, "UpgradeCost":3000, "UpgradeTime":30, "UpdateDiamond":30, "HideSeconds":6 },
+		{ "id":6, "Comment":"Invisibility-隐身技能", "Level":6, "InGameName":1031, "TrainCost":150, "UpgradeCost":3600, "UpgradeTime":36, "UpdateDiamond":36, "HideSeconds":7 },
+		{ "id":7, "Comment":"Invisibility-隐身技能", "Level":7, "InGameName":1031, "TrainCost":175, "UpgradeCost":4200, "UpgradeTime":42, "UpdateDiamond":42, "HideSeconds":8 },
+		{ "id":8, "Comment":"Invisibility-隐身技能", "Level":8, "InGameName":1031, "TrainCost":200, "UpgradeCost":4800, "UpgradeTime":48, "UpdateDiamond":48, "HideSeconds":9 },
+		{ "id":9, "Comment":"Invisibility-隐身技能", "Level":9, "InGameName":1031, "TrainCost":225, "UpgradeCost":5400, "UpgradeTime":54, "UpdateDiamond":54, "HideSeconds":10 },
+		{ "id":10, "Comment":"Invisibility-隐身技能", "Level":10, "InGameName":1031, "TrainCost":-1, "UpgradeCost":-1, "UpgradeTime":-1, "UpdateDiamond":-1, "HideSeconds":11 }
+	]
+}

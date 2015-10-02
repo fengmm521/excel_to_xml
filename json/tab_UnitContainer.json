@@ -1,0 +1,26 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "Type":"类型", "InGameName":"名字索引", "TrainCost":"花费", "UpgradeCost":"升级", "UpgradeTime":"升级时间（分钟）", "UpdateDiamond":"直接升级需求钻石", "UnitCount":"容纳单元数" },
+		{ "id":"int", "Comment":"string", "Level":"int", "Type":"int", "InGameName":"int", "TrainCost":"int", "UpgradeCost":"int", "UpgradeTime":"int", "UpdateDiamond":"int", "UnitCount":"int" },
+		{ "id":1, "Comment":"Barrack-兵营", "Level":1, "Type":24, "InGameName":1024, "TrainCost":50, "UpgradeCost":500, "UpgradeTime":10, "UpdateDiamond":5, "UnitCount":5 },
+		{ "id":2, "Comment":"Barrack-兵营", "Level":2, "Type":24, "InGameName":1024, "TrainCost":60, "UpgradeCost":600, "UpgradeTime":12, "UpdateDiamond":6, "UnitCount":6 },
+		{ "id":3, "Comment":"Barrack-兵营", "Level":3, "Type":24, "InGameName":1024, "TrainCost":70, "UpgradeCost":700, "UpgradeTime":14, "UpdateDiamond":7, "UnitCount":7 },
+		{ "id":4, "Comment":"Barrack-兵营", "Level":4, "Type":24, "InGameName":1024, "TrainCost":80, "UpgradeCost":800, "UpgradeTime":16, "UpdateDiamond":8, "UnitCount":8 },
+		{ "id":5, "Comment":"Barrack-兵营", "Level":5, "Type":24, "InGameName":1024, "TrainCost":90, "UpgradeCost":900, "UpgradeTime":18, "UpdateDiamond":9, "UnitCount":9 },
+		{ "id":6, "Comment":"Barrack-兵营", "Level":6, "Type":24, "InGameName":1024, "TrainCost":100, "UpgradeCost":1000, "UpgradeTime":20, "UpdateDiamond":10, "UnitCount":10 },
+		{ "id":7, "Comment":"Barrack-兵营", "Level":7, "Type":24, "InGameName":1024, "TrainCost":110, "UpgradeCost":1100, "UpgradeTime":22, "UpdateDiamond":11, "UnitCount":11 },
+		{ "id":8, "Comment":"Barrack-兵营", "Level":8, "Type":24, "InGameName":1024, "TrainCost":120, "UpgradeCost":1200, "UpgradeTime":24, "UpdateDiamond":12, "UnitCount":12 },
+		{ "id":9, "Comment":"Barrack-兵营", "Level":9, "Type":24, "InGameName":1024, "TrainCost":130, "UpgradeCost":1300, "UpgradeTime":26, "UpdateDiamond":13, "UnitCount":13 },
+		{ "id":10, "Comment":"Barrack-兵营", "Level":10, "Type":24, "InGameName":1024, "TrainCost":-1, "UpgradeCost":-1, "UpgradeTime":-1, "UpdateDiamond":-1, "UnitCount":14 },
+		{ "id":11, "Comment":"Airport-飞机场", "Level":1, "Type":25, "InGameName":1025, "TrainCost":80, "UpgradeCost":800, "UpgradeTime":15, "UpdateDiamond":5, "UnitCount":5 },
+		{ "id":12, "Comment":"Airport-飞机场", "Level":2, "Type":25, "InGameName":1025, "TrainCost":90, "UpgradeCost":900, "UpgradeTime":18, "UpdateDiamond":6, "UnitCount":6 },
+		{ "id":13, "Comment":"Airport-飞机场", "Level":3, "Type":25, "InGameName":1025, "TrainCost":100, "UpgradeCost":1000, "UpgradeTime":21, "UpdateDiamond":7, "UnitCount":7 },
+		{ "id":14, "Comment":"Airport-飞机场", "Level":4, "Type":25, "InGameName":1025, "TrainCost":110, "UpgradeCost":1100, "UpgradeTime":24, "UpdateDiamond":8, "UnitCount":8 },
+		{ "id":15, "Comment":"Airport-飞机场", "Level":5, "Type":25, "InGameName":1025, "TrainCost":120, "UpgradeCost":1200, "UpgradeTime":27, "UpdateDiamond":9, "UnitCount":9 },
+		{ "id":16, "Comment":"Airport-飞机场", "Level":6, "Type":25, "InGameName":1025, "TrainCost":130, "UpgradeCost":1300, "UpgradeTime":30, "UpdateDiamond":10, "UnitCount":10 },
+		{ "id":17, "Comment":"Airport-飞机场", "Level":7, "Type":25, "InGameName":1025, "TrainCost":140, "UpgradeCost":1400, "UpgradeTime":33, "UpdateDiamond":11, "UnitCount":11 },
+		{ "id":18, "Comment":"Airport-飞机场", "Level":8, "Type":25, "InGameName":1025, "TrainCost":150, "UpgradeCost":1500, "UpgradeTime":36, "UpdateDiamond":12, "UnitCount":12 },
+		{ "id":19, "Comment":"Airport-飞机场", "Level":9, "Type":25, "InGameName":1025, "TrainCost":160, "UpgradeCost":1600, "UpgradeTime":39, "UpdateDiamond":13, "UnitCount":13 },
+		{ "id":20, "Comment":"Airport-飞机场", "Level":10, "Type":25, "InGameName":1025, "TrainCost":-1, "UpgradeCost":-1, "UpgradeTime":-1, "UpdateDiamond":-1, "UnitCount":14 }
+	]
+}

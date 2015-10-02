@@ -1,0 +1,13 @@
+message tab_PlaneShootEffectTable 
+{
+	optional string tname = 1;
+	repeated tab_PlaneShootEffect tlist = 2;
+}
+
+message tab_PlaneShootEffect
+{
+	optional int32 id = 1;
+	optional string Comment = 2;
+	optional int32 Type = 3;
+	optional int32 EffectNo = 4;
+}

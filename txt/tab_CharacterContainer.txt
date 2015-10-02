@@ -1,0 +1,28 @@
+Id	Comment	Type	HowmanyGrids	
+Id	描述	类型	兵种所占格子数	
+int	string	int	int	
+1	战士-Soldier	1	1	
+2	坦克-Tank	2	4	
+3	导弹-Missile	3	4	
+4	高压电塔-Voltage tower	4	4	
+5	造雾机-Fog chamber	5	4	
+6	风车-Windmill	6	4	
+7	敢死队员-Kamikaze	7	1	
+8	高射炮-Archibald	8	4	
+9	S-068	9	4	
+10	M-019	10	4	
+11	B-500	11	4	
+12	Dwarf	12	4	
+13	Albatross	13	4	
+14	Hawk	14	4	
+15	Phoenix	15	4	
+16	Thunder Fighter	16	4	
+17	Warlord	17	1	
+18	Puma	18	1	
+19	Tempura	19	1	
+20	Halo	20	1	
+21	Vasline	21	1	
+22	Bomb	22	1	
+23	Boss	23	9	
+24	Airport 飞机场	24	4	
+25	Barrack 兵营	25	4	

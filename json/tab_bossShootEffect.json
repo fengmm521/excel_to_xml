@@ -1,0 +1,12 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "InGameName":"名字索引", "LastTime":"持续秒数" },
+		{ "id":"int", "Comment":"string", "InGameName":"int", "LastTime":"int" },
+		{ "id":1, "Comment":"Boss射击效果1", "InGameName":-1, "LastTime":3 },
+		{ "id":2, "Comment":"Boss射击效果2", "InGameName":-1, "LastTime":4 },
+		{ "id":3, "Comment":"Boss射击效果3", "InGameName":-1, "LastTime":5 },
+		{ "id":4, "Comment":"Boss射击效果4", "InGameName":-1, "LastTime":6 },
+		{ "id":5, "Comment":"Boss射击效果5", "InGameName":-1, "LastTime":7 },
+		{ "id":6, "Comment":"Boss射击效果6", "InGameName":-1, "LastTime":8 }
+	]
+}

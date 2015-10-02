@@ -1,0 +1,31 @@
+{
+	"list":[
+		{ "Id":"Id", "Comment":"描述", "Type":"类型", "HowmanyGrids":"兵种所占格子数" },
+		{ "Id":"int", "Comment":"string", "Type":"int", "HowmanyGrids":"int" },
+		{ "Id":1, "Comment":"战士-Soldier", "Type":1, "HowmanyGrids":1 },
+		{ "Id":2, "Comment":"坦克-Tank", "Type":2, "HowmanyGrids":4 },
+		{ "Id":3, "Comment":"导弹-Missile", "Type":3, "HowmanyGrids":4 },
+		{ "Id":4, "Comment":"高压电塔-Voltage tower", "Type":4, "HowmanyGrids":4 },
+		{ "Id":5, "Comment":"造雾机-Fog chamber", "Type":5, "HowmanyGrids":4 },
+		{ "Id":6, "Comment":"风车-Windmill", "Type":6, "HowmanyGrids":4 },
+		{ "Id":7, "Comment":"敢死队员-Kamikaze", "Type":7, "HowmanyGrids":1 },
+		{ "Id":8, "Comment":"高射炮-Archibald", "Type":8, "HowmanyGrids":4 },
+		{ "Id":9, "Comment":"S-068", "Type":9, "HowmanyGrids":4 },
+		{ "Id":10, "Comment":"M-019", "Type":10, "HowmanyGrids":4 },
+		{ "Id":11, "Comment":"B-500", "Type":11, "HowmanyGrids":4 },
+		{ "Id":12, "Comment":"Dwarf", "Type":12, "HowmanyGrids":4 },
+		{ "Id":13, "Comment":"Albatross", "Type":13, "HowmanyGrids":4 },
+		{ "Id":14, "Comment":"Hawk", "Type":14, "HowmanyGrids":4 },
+		{ "Id":15, "Comment":"Phoenix", "Type":15, "HowmanyGrids":4 },
+		{ "Id":16, "Comment":"Thunder Fighter", "Type":16, "HowmanyGrids":4 },
+		{ "Id":17, "Comment":"Warlord", "Type":17, "HowmanyGrids":1 },
+		{ "Id":18, "Comment":"Puma", "Type":18, "HowmanyGrids":1 },
+		{ "Id":19, "Comment":"Tempura", "Type":19, "HowmanyGrids":1 },
+		{ "Id":20, "Comment":"Halo", "Type":20, "HowmanyGrids":1 },
+		{ "Id":21, "Comment":"Vasline", "Type":21, "HowmanyGrids":1 },
+		{ "Id":22, "Comment":"Bomb", "Type":22, "HowmanyGrids":1 },
+		{ "Id":23, "Comment":"Boss", "Type":23, "HowmanyGrids":9 },
+		{ "Id":24, "Comment":"Airport 飞机场", "Type":24, "HowmanyGrids":4 },
+		{ "Id":25, "Comment":"Barrack 兵营", "Type":25, "HowmanyGrids":4 }
+	]
+}

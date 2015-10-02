@@ -1,0 +1,6 @@
+id	Comment	InGameName	Cost	CoinsMulti	
+Id	描述	名字索引	花费钻石数	获得金币倍数	
+int	string	int	int	int	
+1	Oneday一天	1028	100	3	
+2	Twodays两天	1029	150	4	
+3	OneWeek一星期	1030	250	6	

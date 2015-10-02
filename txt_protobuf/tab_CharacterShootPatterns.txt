@@ -1,0 +1,11 @@
+id	Comment	Type	LightBullet	HeavyBullet	Missile	Nightning	Fog	Wind	Archibald	
+Id	描述	角色类型	轻型子弹	重型子弹	导弹	闪电	喷雾	吹风	高射炮弹	
+int32	string	int32	int32	int32	int32	int32	int32	int32	int32	
+1	Solider射击样式	1	1	-1	-1	-1	-1	-1	-1	
+2	Tank射击样式	2	-1	1	-1	-1	-1	-1	-1	
+3	Missile射击样式	3	-1	-1	1	-1	-1	-1	-1	
+4	voltage tower射击样式	4	-1	-1	-1	1	-1	-1	-1	
+5	fog chamber射击样式	5	-1	-1	-1	-1	1	-1	-1	
+6	windmill射击样式	6	-1	-1	-1	-1	-1	1	-1	
+7	Kamikaze射击样式	7	-1	-1	-1	-1	-1	-1	-1	
+8	Archibald射击样式	8	-1	-1	-1	-1	-1	-1	1	

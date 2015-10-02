@@ -1,0 +1,21 @@
+message tab_PowerupRuleTable 
+{
+	optional string tname = 1;
+	repeated tab_PowerupRule tlist = 2;
+}
+
+message tab_PowerupRule
+{
+	optional int32 id = 1;
+	optional string Comment = 2;
+	optional int32 Level = 3;
+	optional int32 Coins = 4;
+	optional int32 CoinLowBound = 5;
+	optional int32 CoinUpperBound = 6;
+	optional int32 LifePoints = 7;
+	optional int32 LifeLowBound = 8;
+	optional int32 LifeUpperBound = 9;
+	optional int32 Bomb = 10;
+	optional int32 Shield = 11;
+	optional int32 Life = 12;
+}

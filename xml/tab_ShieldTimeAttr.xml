@@ -1,0 +1,23 @@
+<config>
+	<id>
+		<id>1</id>
+		<Comment>Oneday一天</Comment>
+		<InGameName>1028</InGameName>
+		<Cost>100</Cost>
+		<CoinsMulti>3</CoinsMulti>
+	</id>
+	<id>
+		<id>2</id>
+		<Comment>Twodays两天</Comment>
+		<InGameName>1029</InGameName>
+		<Cost>150</Cost>
+		<CoinsMulti>4</CoinsMulti>
+	</id>
+	<id>
+		<id>3</id>
+		<Comment>OneWeek一星期</Comment>
+		<InGameName>1030</InGameName>
+		<Cost>250</Cost>
+		<CoinsMulti>6</CoinsMulti>
+	</id>
+</config>

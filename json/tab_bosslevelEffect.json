@@ -1,0 +1,16 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "Level":"等级", "EffectCount":"射击效果数" },
+		{ "id":"int", "Comment":"string", "Level":"int", "EffectCount":"int" },
+		{ "id":1, "Comment":"Boss该等级所拥有效果数", "Level":1, "EffectCount":1 },
+		{ "id":2, "Comment":"Boss该等级所拥有效果数", "Level":2, "EffectCount":1 },
+		{ "id":3, "Comment":"Boss该等级所拥有效果数", "Level":3, "EffectCount":2 },
+		{ "id":4, "Comment":"Boss该等级所拥有效果数", "Level":4, "EffectCount":2 },
+		{ "id":5, "Comment":"Boss该等级所拥有效果数", "Level":5, "EffectCount":3 },
+		{ "id":6, "Comment":"Boss该等级所拥有效果数", "Level":6, "EffectCount":3 },
+		{ "id":7, "Comment":"Boss该等级所拥有效果数", "Level":7, "EffectCount":4 },
+		{ "id":8, "Comment":"Boss该等级所拥有效果数", "Level":8, "EffectCount":5 },
+		{ "id":9, "Comment":"Boss该等级所拥有效果数", "Level":9, "EffectCount":5 },
+		{ "id":10, "Comment":"Boss该等级所拥有效果数", "Level":10, "EffectCount":6 }
+	]
+}

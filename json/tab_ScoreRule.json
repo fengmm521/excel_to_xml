@@ -1,0 +1,7 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "ScoreAddPerPoint":"伤害对方加分数量", "ScoreAddWin":"获胜后加分数量", "CoinsAddWin":"获胜后增加金币百分比", "ScoreSubPerPoint":"防御时自己减分数量", "ScoreSubLose":"失败后减分数量", "CoinsSubLose":"失败后减少金币百分比" },
+		{ "id":"int", "Comment":"string", "ScoreAddPerPoint":"int", "ScoreAddWin":"int", "CoinsAddWin":"int", "ScoreSubPerPoint":"int", "ScoreSubLose":"int", "CoinsSubLose":"int" },
+		{ "id":1, "Comment":"胜负加减分规则", "ScoreAddPerPoint":1, "ScoreAddWin":100, "CoinsAddWin":10, "ScoreSubPerPoint":1, "ScoreSubLose":100, "CoinsSubLose":10 }
+	]
+}

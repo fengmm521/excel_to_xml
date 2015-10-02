@@ -1,0 +1,14 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "UnitCount":"所占单元数" },
+		{ "id":"int", "Comment":"string", "UnitCount":"int" },
+		{ "id":1, "Comment":"Soldier所占单元", "UnitCount":1 },
+		{ "id":2, "Comment":"Tank所占单元", "UnitCount":5 },
+		{ "id":3, "Comment":"Missile所占单元", "UnitCount":5 },
+		{ "id":4, "Comment":"Voltage tower所占单元", "UnitCount":5 },
+		{ "id":5, "Comment":"Fog chamber所占单元", "UnitCount":5 },
+		{ "id":6, "Comment":"Windmill所占单元", "UnitCount":5 },
+		{ "id":7, "Comment":"Kamikaze所占单元", "UnitCount":2 },
+		{ "id":8, "Comment":"Archibald所占单元", "UnitCount":5 }
+	]
+}

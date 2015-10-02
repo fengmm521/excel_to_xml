@@ -1,0 +1,42 @@
+<config>
+	<id>
+		<id>1</id>
+		<Comment>Soldier所占单元</Comment>
+		<UnitCount>1</UnitCount>
+	</id>
+	<id>
+		<id>2</id>
+		<Comment>Tank所占单元</Comment>
+		<UnitCount>5</UnitCount>
+	</id>
+	<id>
+		<id>3</id>
+		<Comment>Missile所占单元</Comment>
+		<UnitCount>5</UnitCount>
+	</id>
+	<id>
+		<id>4</id>
+		<Comment>Voltage tower所占单元</Comment>
+		<UnitCount>5</UnitCount>
+	</id>
+	<id>
+		<id>5</id>
+		<Comment>Fog chamber所占单元</Comment>
+		<UnitCount>5</UnitCount>
+	</id>
+	<id>
+		<id>6</id>
+		<Comment>Windmill所占单元</Comment>
+		<UnitCount>5</UnitCount>
+	</id>
+	<id>
+		<id>7</id>
+		<Comment>Kamikaze所占单元</Comment>
+		<UnitCount>2</UnitCount>
+	</id>
+	<id>
+		<id>8</id>
+		<Comment>Archibald所占单元</Comment>
+		<UnitCount>5</UnitCount>
+	</id>
+</config>

@@ -1,0 +1,13 @@
+message tab_InitialValuesTable 
+{
+	optional string tname = 1;
+	repeated tab_InitialValues tlist = 2;
+}
+
+message tab_InitialValues
+{
+	optional int32 id = 1;
+	optional string Comment = 2;
+	optional int32 InitCoins = 3;
+	optional int32 InitDiamonds = 4;
+}

@@ -1,0 +1,7 @@
+{
+	"list":[
+		{ "id":"Id", "Comment":"描述", "InitCoins":"初始金币数", "InitDiamonds":"初始钻石数" },
+		{ "id":"int", "Comment":"string", "InitCoins":"int", "InitDiamonds":"int" },
+		{ "id":1, "Comment":"游戏初始值", "InitCoins":1000, "InitDiamonds":1 }
+	]
+}

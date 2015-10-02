@@ -1,0 +1,4 @@
+id	Comment	ScoreAddPerPoint	ScoreAddWin	CoinsAddWin	ScoreSubPerPoint	ScoreSubLose	CoinsSubLose	
+Id	描述	伤害对方加分数量	获胜后加分数量	获胜后增加金币百分比	防御时自己减分数量	失败后减分数量	失败后减少金币百分比	
+int32	string	int32	int32	int32	int32	int32	int32	
+1	胜负加减分规则	1	100	10	1	100	10	

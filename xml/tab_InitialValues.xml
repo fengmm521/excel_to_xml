@@ -1,0 +1,8 @@
+<config>
+	<id>
+		<id>1</id>
+		<Comment>游戏初始值</Comment>
+		<InitCoins>1000</InitCoins>
+		<InitDiamonds>1</InitDiamonds>
+	</id>
+</config>
